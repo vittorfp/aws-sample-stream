@@ -16,9 +16,9 @@ A infraestrutura foi provisionada a partir de uma instancia EC2 com as credencia
 
 ## Visualizações no Kibana
 
-Importando o arquivo `resources/dashboard.json` na instancia do Kibana provisionada, será possivel visualizar o Dashboad a seguir.
+Importando o arquivo `resources/dashboard.json` na instancia do Kibana provisionada, será possivel visualizar o Dashboad a seguir (após a ingestão dos dados, é claro).
 
-[PRINT DO DASHBOARD]
+![Dashboad](resources/kibana.png)
 
 ## Provisionando
 
